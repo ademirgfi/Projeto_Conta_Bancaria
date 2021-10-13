@@ -1,0 +1,16 @@
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.csproj.AssemblyReference.cache
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.AssemblyInfoInputs.cache
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.AssemblyInfo.cs
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.csproj.CoreCompileInputs.cache
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.exe
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.deps.json
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.runtimeconfig.json
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.runtimeconfig.dev.json
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.dll
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ref\ContaBancaria.Bank.dll
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\bin\Debug\net5.0\ContaBancaria.Bank.pdb
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.dll
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ref\ContaBancaria.Bank.dll
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.pdb
+D:\Estudos_bootcamp\PROJETO_BANCO_ELI\Projeto_Conta_Bancaria\ContaBancaria.Bank\obj\Debug\net5.0\ContaBancaria.Bank.genruntimeconfig.cache
